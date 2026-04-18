@@ -62,7 +62,7 @@ const Hero = () => {
                 </svg>
               </a>
               <a 
-                href="https://www.linkedin.com/in/your-profile" 
+                href="https://www.linkedin.com/in/badavath-srikanth-8970a2278/" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="bg-purple-600 hover:bg-purple-500 p-3 rounded-full transition-all hover:scale-110"
